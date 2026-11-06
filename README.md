@@ -7,3 +7,30 @@ Objetivo general: Analizar la utilidad del cine como recurso educativo para la s
 Objetivo específico 1: Identificar cómo se representan los TCA y la imagen corporal en el cine.
 Objetivo específico 2: Analizar el potencial educativo de las películas para trabajar la prevención de los  TCA.
 Objetivo específico 3: Explorar que factores de riesgo y protección relacionados con los TCA pueden abordarse mediante recursos cinematográficos.
+
+# [Proyecto-Trabajo-Social]
+
+Proyecto de la asignatura **Informática para el Trabajo Social**, Universidad de Cádiz.
+## De qué trata
+[Los trastornos de la conducta alimentaria y va dirigido hacia mujeres jóvenes]
+> [¿Cómo influyen los cánones de belleza y las redes sociales en la aparición de los TCA en las mujeres?]
+
+## Objetivos
+
+- [Identificar cómo se representan los TCA y la imagen corporal en el cine.]
+- [Analizar el potencial educativo de las películas para trabajar la prevención de los  TCA.]
+- [Explorar que factores de riesgo y protección relacionados con los TCA pueden abordarse mediante recursos cinematográficos.]
+
+## Web del proyecto
+
+[Visita la web] [https://github.com/mariiaalvarez/Proyecto-Trabajo-Social.git]
+![[Describe la imagen en una frase]](img/[nombre-de-tu-imagen].png)
+
+## Contenido del repositorio
+
+- `index.html`: la web con el asistente
+- `README.md`: esta presentación
+
+## Autoría
+
+[María Álvarez Martínez] — curso [2026/2027]
