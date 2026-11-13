@@ -34,4 +34,8 @@ Describe la imagen en una frase (img/[nombre-de-tu-imagen].png)
 ## Autoría
 
 María Álvarez Martínez — curso 2026/2027
+<<<<<<< Updated upstream
 El profesor llegó al suelo y rebotó
+=======
+Profesor se va a tirar por el balcón y yo también 
+>>>>>>> Stashed changes
